@@ -1,0 +1,242 @@
+#header
+{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center; 
+  box-shadow: inset 0px 0px 30px 30px rgba(0, 0, 0, 0.6);
+}
+
+.footer
+{
+  background-image: url('https://i.ibb.co/gZn1gBL/footer-img.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center; 
+}
+
+.seller-logo
+{
+  width: 2.5%;
+
+}
+
+.game-logo
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#description
+{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center; 
+}
+
+.item-image
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 50px;
+  border: 3px solid #c4001a;
+  border-style: dotted;
+}
+
+.description-contents
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#descrip-row
+{
+  background-color: rgb(22, 26, 25);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  padding-bottom: 15px;
+}
+
+h2
+{
+  font-family: 'Quantico', sans-serif;
+  margin: auto;
+  font-size: 1.4em;
+  text-align: center;
+  background: -webkit-linear-gradient( rgb(235, 225, 225), rgb(163, 134, 47));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h5
+{
+  font-family: 'Poppins', sans-serif;
+  margin: auto;
+  font-size: 1.0em;
+  text-align: center;
+  color: #FFFFFF;
+  text-shadow: 4px 4px 4px #000000;
+}
+
+ul
+{
+  text-align: center;
+  list-style-position: inside;
+}
+
+li
+{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: auto;
+  text-align: left;
+  color: #FFFFFF;
+  text-shadow: 4px 4px 4px #000000;
+  font-size: 1.0em;
+}
+
+.card
+{
+  margin: 20px;
+  outline: none;
+  border-color: #ffffff;
+  box-shadow: 0 0 10px #ffffff;
+}
+
+.card-header
+{
+  background: linear-gradient(90deg, rgba(161,87,95,1) 0%, rgba(5,5,5,1) 100%, rgba(0,212,255,1) 100%, rgba(0,0,0,1) 100%);
+  background-size: cover;
+	background-repeat: no-repeat;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+
+.item-title
+{
+  background: linear-gradient(90deg, rgba(161,87,95,1) 0%, rgba(5,5,5,1) 100%, rgba(0,212,255,1) 100%, rgba(0,0,0,1) 100%);
+  background-size: cover;
+	background-repeat: no-repeat;
+  padding: 12px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+}
+
+
+.card-body
+{
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.95) 0%, rgba(75,75,75,1) 70%);
+}
+
+#h5-text
+{
+  font-family: 'Bebas Neue', cursive;
+  margin: auto;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 50px;
+  text-shadow: 4px 4px 4px #000000;
+  color: #FFFFFF;
+}
+
+.descrip-text
+{
+  font-family: 'Bebas Neue', cursive;
+  margin: auto;
+  padding-top: 10px;
+  text-align: center;
+}
+
+#footer-table
+{
+  font-family: 'Bebas Neue', cursive;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.other-items
+{
+  border-top: 3px solid #FFFFFF;
+  font-family: 'Bebas Neue', cursive;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+#see-more-bg
+{
+  padding-bottom: 15px;
+  background: rgb(36,35,35);
+  background: linear-gradient(90deg, rgba(36,35,35,1) 0%, rgba(0,0,0,1) 46%, rgba(36,35,35,1) 100%);
+}
+
+#announcement-banner-gold
+{
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgb(155, 124, 31) 70%);
+  box-shadow: inset 0px 0px 30px 30px rgba(10, 9, 9, 0.3);
+}
+
+#announcement-banner-gold-below-banner
+{
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgb(155, 124, 31) 70%);
+  box-shadow: inset 0px 0px 30px 30px rgba(10, 9, 9, 0.3);
+}
+
+h3
+{
+  font-family: 'Bebas Neue', cursive;
+  margin: auto;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #FFFFFF;
+  text-shadow: 4px 4px 4px #000000;
+}
+
+#see-more-image
+{
+  outline: none;
+  border-color: #ff0000;
+  box-shadow: 0 0 5px rgb(0, 0, 0);
+}
+
+.thumbnail
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 10px #ffffff;
+}
+
+#card-descrip
+{
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: auto;
+  text-align: center;
+  color: #FFFFFF;
+  text-shadow: 4px 4px 4px #000000;
+  font-size: 1.0em;
+}
+
+.col-12
+{
+  padding-top: 1em;
+}
